@@ -75,7 +75,7 @@
 - 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
 - 📱 **Mobile**: Android (Java), Flutter  
 - 🌐 **Web**: HTML, CSS, JS  
-- 🛠️ **Tools**: Git, GitHub, Firebase, Figma, SQLite, SQL, Android Studio, VS Code  
+- 🛠️ **Tools**: Git, GitHub, Firebase, Figma, SQLite, MySQL, Android Studio, VS Code  
 - 🧪 **Other**: REST APIs, Real-time DB, Push Notifications
 
 ---
