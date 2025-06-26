@@ -3,7 +3,7 @@
 <h3 align="center">Code. Purpose. Impact.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MeetRaval8983&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Meet+Raval;Developer+%7C+DSA+Lover+%7C+Focused+on+Purpose" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,14 +65,14 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,figma,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,gradle,latex,pycharm,figma,arduino,linux" />
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
 - 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
 - 📱 **Mobile**: Android (Java), Flutter  
 - 🌐 **Web**: HTML, CSS, JS  
-- 🛠️ **Tools**: Git, GitHub, Firebase, Figma, SQLite, MySQL, Android Studio, VS Code  
+- 🛠️ **Tools**: Git, GitHub, Firebase, Figma, SQLite, MySQL, Android Studio, VS Code, PyCharm  
 - 🧪 **Other**: REST APIs, Real-time DB, Push Notifications
 
 ---
