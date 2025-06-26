@@ -3,8 +3,14 @@
 <h3 align="center">Code. Purpose. Impact.</h3>
 
 <p align="center">
+  <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/main/banner.png" alt="Meet Raval Banner" />
+</p>
+
+<!--
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Meet+Raval;Developer+%7C+DSA+Lover+%7C+Focused+on+Purpose" alt="Typing SVG" />
 </p>
+-->
 
 ---
 
