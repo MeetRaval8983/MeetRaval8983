@@ -69,7 +69,7 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,python,dart,flutter,firebase,sql,sqlite,html,css,js,git,github,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,figma" />
 </p>
 
 - 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
@@ -115,7 +115,7 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:ravalmeetofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:meetraval2403@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="http://www.linkedin.com/in/meet-raval-"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Meet8983/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/meetraval2403"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
