@@ -58,7 +58,7 @@
 
 ### 🚦 IoT Project: High-Tech Road Lines for Traffic Management  
 📄 Real-time adaptive road line project for traffic flow management.  
-🚀 Tech: IoT Sensors, Embedded Systems, Automation
+🚀 Tech: Arduino Uno, C++, IoT Sensors, Embedded Systems, Automation
 
 ---
 
