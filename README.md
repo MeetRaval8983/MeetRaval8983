@@ -3,7 +3,7 @@
 <h3 align="center">Code. Purpose. Impact.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MeetRaval8983&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MeetRaval8983&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
