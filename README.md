@@ -3,7 +3,7 @@
 <h3 align="center">Code. Purpose. Impact.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Meet+Raval;Developer+%7C+DSA+Lover+%7C+Focused+on+Purpose" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=MeetRaval8983&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -65,7 +65,8 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,oracle,mysql,sqlite,html,css,js,git,github,android,androidstudio,figma,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,figma,arduino,linux" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/>
 </p>
 
 - 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
