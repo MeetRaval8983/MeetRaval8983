@@ -69,13 +69,13 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,firebase,html,css,js,git,github,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=c,c++,java,python,dart,flutter,firebase,sql,sqlite,html,css,js,git,github,androidstudio,figma" />
 </p>
 
-- 💻 **Languages**: Java, Dart, C, JavaScript  
+- 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
 - 📱 **Mobile**: Android (Java), Flutter  
 - 🌐 **Web**: HTML, CSS, JS  
-- 🛠️ **Tools**: Git, Firebase, Figma, Android Studio, VS Code  
+- 🛠️ **Tools**: Git, GitHub, Firebase, Figma, SQLite, SQL, Android Studio, VS Code  
 - 🧪 **Other**: REST APIs, Real-time DB, Push Notifications
 
 ---
