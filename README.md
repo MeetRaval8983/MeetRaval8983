@@ -1,127 +1,25 @@
-<!-- Banner -->
-<h1 align="center">Hey 👋, I'm Meet Raval</h1>
-<h3 align="center">Code. Purpose. Impact.</h3>
+<h1 align="center">Hi 👋, I'm Meet Raval</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MeetRaval8983&style=for-the-badge" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetraval8983&label=Profile%20views&color=0e75b6&style=flat" alt="meetraval8983" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetraval8983" alt="meetraval8983" /></a> </p>
 
-## 🧑‍💻 About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 Computer Engineering Student  
-- 💻 Software & Mobile App Developer (Flutter + Android Java)  
-- 📊 Strong in Data Structures & Algorithms (DSA)  
-- 🧠 Passionate about tech that **solves real-world problems**  
-- 📚 Spiritually inspired by **Bhagavad Gita** — *"Do your karma, leave the rest to God."*
-
----
-
-## 🏆 Highlights & Achievements
-
-- 🥇 1st Rank – **Code Dash**, Infotsav 2k24 (twice winner)  
-- 🥇 Winner – **CodeUtsav 2k23**  
-- 🥇 Winner – **Coder-Byte**, 2024  
-- 🥇 Winner – **Summer Code Challenge**, fastest coder  
-- 🥇 Winner – **Code 404**, defeated degree students as diploma student  
-- 🥈 Runner-Up – **CODE MANIA**, INCEPTO'24  
-- 🥉 3rd Rank – **Code War**, Pragyan 2k23  
-- 🧑‍🏫 **Event Coordinator** – Let’s Code, District'10  
-- 👨‍💻 **GDG Android Lead**  
-- 📱 Completed Android App Development Internship  
-
----
-
-## 🚀 Featured Projects
-
-### 📍 Smart Student Tracker App (2 Modules)
-| Module | Description |
-|--------|-------------|
-| 🔐 **User App** – `SmartStudentTracker` | Tracks live location, works in background, sends push alerts if user turns off GPS. |
-| 🗺️ **Admin App** – `CampusManagement` | Displays live map, shows only logged-in users, real-time Firebase + Google Maps. |
-> 🚀 Tech: Flutter, Firebase, Google Maps API, Push Notifications
-
----
-
-### 🎓 StudyMaster: Personalized Learning App  
-📄 AI-backed Android app with learning paths, quizzes, bookmarking, and user login.  
-🚀 Tech: Java, Android SDK, Firebase, Machine Learning (basic)
-
----
-
-### 💊 Medical Stock Store Management System  
-📄 Desktop app for medicine inventory tracking, alerts, billing, and reporting.  
-🚀 Tech: Java (AWT/Swing), File I/O
-
----
-
-### 🚦 IoT Project: High-Tech Road Lines for Traffic Management  
-📄 Real-time adaptive road line project for traffic flow management.  
-🚀 Tech: Arduino Uno, C++, IoT Sensors, Embedded Systems, Automation
-
----
-
-## 🧰 Tech Stack
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,figma,arduino,linux" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/>
+<a href="https://linkedin.com/in/meet-raval-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-raval-" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meetraval2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meetraval2403" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/meet8983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meet8983" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/meetrav7u07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="meetrav7u07" height="30" width="40" /></a>
 </p>
 
-- 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
-- 📱 **Mobile**: Android (Java), Flutter  
-- 🌐 **Web**: HTML, CSS, JS  
-- 🛠️ **Tools**: Git, GitHub, Firebase, Figma, SQLite, MySQL, Android Studio, VS Code  
-- 🧪 **Other**: REST APIs, Real-time DB, Push Notifications
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetraval8983&show_icons=true&locale=en&layout=compact" alt="meetraval8983" /></p>
 
-## 📈 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetraval8983&show_icons=true&locale=en" alt="meetraval8983" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetRaval8983&show_icons=true&theme=github_dark&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeetRaval8983&theme=github-dark&hide_border=true" height="180" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetRaval8983&theme=react-dark" />
-</p>
-
----
-
-## ✨ Wisdom from the Gita
-
-> *"You have the right to work, but not to the fruits of the work."*  
-> – **Bhagavad Gita 2.47**
-
-> *"Do your duty, without attachment, and with an even mind in success and failure."*
-
-> *"A person is made by their belief. As they believe, so they are."*
-
----
-
-## 🎧 Fun & Personal Side
-
-- 🎧 I enjoy coding while listening to calm instrumental music  
-- 📚 Inspired by **Bhagavad Gita** and books on discipline  
-- 🧘‍♂️ Early morning productivity and deep work focus my routine  
-- 🤫 I’m an introvert — but code is my language  
-- 🧩 Always ready to learn, build, improve
-
----
-
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="mailto:meetraval2403@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="http://www.linkedin.com/in/meet-raval-"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Meet8983/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/meetraval2403"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/meetrav7u07/"><img src="https://img.shields.io/badge/GeeksforGeeks-14a519?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  ⚡ Let's innovate, collaborate, and grow together. <br/>
-  🔥 *"Focused. Disciplined. Devoted to Code."*
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetraval8983&" alt="meetraval8983" /></p>
