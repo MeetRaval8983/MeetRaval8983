@@ -65,7 +65,7 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,oracle,mysql,sqlite,html,css,js,git,github,android,androidstudio,figma,arduino,linux" />
 </p>
 
 - 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
