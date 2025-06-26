@@ -3,7 +3,7 @@
 <h3 align="center">Code. Purpose. Impact.</h3>
 
 <p align="center">
-  <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/main/banner.png" alt="Meet Raval Banner" width = "700" height = "700"/>
+  <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/main/banner.png" alt="Meet Raval Banner" width = "700" height = "500"/>
 </p>
 
 <!--
