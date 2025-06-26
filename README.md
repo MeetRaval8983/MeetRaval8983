@@ -72,9 +72,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,gradle,latex,vscode,idea,eclipse,pycharm,figma,arduino,linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" style="margin-left: 8px; vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48" />
 </p>
-
 
 <!--
 <p align="left">
