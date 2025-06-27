@@ -72,7 +72,7 @@
 
 <!-- Skillicons row -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,gradle,latex,vscode,idea,eclipse,pycharm,figma,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,gradle,latex,vscode,idea,eclipse,pycharm,arduino,linux" />
 </p>
 
 <!-- Manually added Oracle icon row -->
@@ -90,7 +90,7 @@
 - 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
 - 📱 **Mobile**: Android (Java), Flutter  
 - 🌐 **Web**: HTML, CSS, JS  
-- 🛠️ **Tools**: Git, GitHub, Firebase, Figma, SQLite, MySQL, Android Studio, VS Code, PyCharm, IntelliJ IDEA, Eclipse  
+- 🛠️ **Tools**: Git, GitHub, Firebase, SQLite, MySQL, Android Studio, VS Code, PyCharm, IntelliJ IDEA, Eclipse  
 - 🧪 **Other**: REST APIs, Real-time DB, Push Notifications
 
 ---
