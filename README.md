@@ -52,7 +52,7 @@
 
 ### 🎓 StudyMaster: Personalized Learning App  
 📄 AI-backed Android app with learning paths, quizzes, bookmarking, and user login.  
-🚀 Tech: Java, Android SDK, Firebase, Machine Learning (basic)
+🚀 Tech: Java, Android SDK, SQLite, Machine Learning (basic)
 
 ---
 
