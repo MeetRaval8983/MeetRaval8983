@@ -90,10 +90,12 @@
 
 ## 🛠️ Currently Working On
 
-- 🚀 Enhancing the **SmartStudentTracker** UI/UX and backend logic
-- 🧠 Solving DSA problems regularly on LeetCode
-- 🌐 Learning web development (HTML → CSS → JS → Tailwind)
-- 📖 Exploring clean architecture and scalable app design
+- 📱 Android & Flutter Apps  
+- ☕ Java Projects & Clean Architecture  
+- 🔢 DSA on LeetCode  
+- 🌐 Web Dev: HTML, CSS, JS, Tailwind  
+- 🤖 Exploring AI/ML basics  
+- 🚀 GitHub Projects & Contributions  
 
 ---
 
