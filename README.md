@@ -2,6 +2,14 @@
 <h1 align="center">Hey 👋, I'm Meet Raval</h1>
 <h3 align="center">Code. Purpose. Impact.</h3>
 
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeetRaval8983&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/MeetRaval8983?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/MeetRaval8983?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
+
+<!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/main/banner.png" alt="Meet Raval Banner" width="500" height="400"/>
 </p>
@@ -80,11 +88,32 @@
 
 ---
 
+## 🛠️ Currently Working On
+
+- 🚀 Enhancing the **SmartStudentTracker** UI/UX and backend logic
+- 🧠 Solving DSA problems regularly on LeetCode
+- 🌐 Learning web development (HTML → CSS → JS → Tailwind)
+- 📖 Exploring clean architecture and scalable app design
+
+---
+
+## 📚 Open Source Contributions
+
+- 🔧 [github-readme-stats fork](https://github.com/MeetRaval8983/github-readme-stats): Private stats support with Vercel
+- 🧑‍💻 [Flutter GPS Tracker App](https://github.com/MeetRaval8983/CampusManagement)
+- 📱 [StudyMaster](https://github.com/MeetRaval8983/StudyMaster)
+
+> 🌱 Always looking for meaningful open-source contributions to learn & give back
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-meet.vercel.app/api?username=MeetRaval8983&show_icons=true&theme=github_dark&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MeetRaval8983&theme=github-dark&hide_border=true" height="180" />
+  <br><br>
+  <img src="https://github-readme-stats-meet.vercel.app/api/top-langs/?username=MeetRaval8983&layout=compact&theme=github_dark" height="180" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetRaval8983&theme=react-dark" />
 </p>
