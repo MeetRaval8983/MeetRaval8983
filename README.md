@@ -98,10 +98,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetRaval8983&show_icons=true&theme=github_dark&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MeetRaval8983&theme=github-dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-meetraval8983.vercel.app/api?username=MeetRaval8983&show_icons=true&theme=github_dark&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=MeetRaval8983&theme=github-dark&hide_border=true" height="180" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetRaval8983&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MeetRaval8983&theme=react-dark" />
 </p>
 
 ---
