@@ -120,6 +120,14 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MeetRaval8983/MeetRaval8983/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## ✨ Wisdom from the Gita
 
 > *"You have the right to work, but not to the fruits of the work."*  
