@@ -1,5 +1,8 @@
 <!-- Banner -->
 <h1 align="center">Hey 👋, I'm Meet Raval</h1>
+<p align="center">
+  <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/main/avatar.gif" width="250" />
+</p>
 <h3 align="center">Code. Purpose. Impact.</h3>
 
 <!-- Profile Badges -->
