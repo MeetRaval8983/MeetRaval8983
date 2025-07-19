@@ -149,11 +149,14 @@
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/meet-raval-"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="mailto:meetraval2403@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
-  <a href="https://leetcode.com/u/Meet8983/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/leetcode.png"/></a>
-  <a href="https://github.com/MeetRaval8983"><img src="https://img.icons8.com/ios-filled/50/github.png"/></a>
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:meetraval2403@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://www.linkedin.com/in/meet-raval-"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Meet8983/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/meetraval2403"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/meetrav7u07/"><img src="https://img.shields.io/badge/GeeksforGeeks-14a519?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
 </p>
 
 ---
