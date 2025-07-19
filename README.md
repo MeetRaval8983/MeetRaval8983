@@ -99,16 +99,6 @@
 
 ---
 
-## 📚 Open Source Contributions
-
-- 🔧 [github-readme-stats fork](https://github.com/MeetRaval8983/github-readme-stats): Private stats support with Vercel
-- 🧑‍💻 [Flutter GPS Tracker App](https://github.com/MeetRaval8983/CampusManagement)
-- 📱 [StudyMaster](https://github.com/MeetRaval8983/StudyMaster)
-
-> 🌱 Always looking for meaningful open-source contributions to learn & give back
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -125,7 +115,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MeetRaval8983/MeetRaval8983/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
