@@ -3,14 +3,8 @@
 <h3 align="center">Code. Purpose. Impact.</h3>
 
 <p align="center">
-  <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/main/banner.png" alt="Meet Raval Banner" width = "500" height = "400"/>
+  <img src="https://github.com/MeetRaval8983/MeetRaval8983/blob/main/banner.png" alt="Meet Raval Banner" width="500" height="400"/>
 </p>
-
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Meet+Raval;Developer+%7C+DSA+Lover+%7C+Focused+on+Purpose" alt="Typing SVG" />
-</p>
--->
 
 ---
 
@@ -70,24 +64,15 @@
 
 ## 🧰 Tech Stack
 
-<!-- Skillicons row -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,gradle,latex,vscode,idea,eclipse,pycharm,arduino,linux" />
 </p>
 
-<!-- Manually added Oracle icon row -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" />
 </p>
 
-<!--
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,firebase,mysql,sqlite,html,css,js,git,github,androidstudio,gradle,latex,vscode,idea,eclipse,pycharm,figma,arduino,linux" />
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-</p>
--->
-
-- 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python
+- 💻 **Languages**: Java, Dart, C, C++, JavaScript, Python  
 - 📱 **Mobile**: Android (Java), Flutter  
 - 🌐 **Web**: HTML, CSS, JS  
 - 🛠️ **Tools**: Git, GitHub, Firebase, SQLite, MySQL, Android Studio, VS Code, PyCharm, IntelliJ IDEA, Eclipse  
@@ -98,9 +83,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-meetraval8983.vercel.app/api?username=MeetRaval8983&show_icons=true&theme=github_dark&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeetRaval8983&show_icons=true&theme=github_dark&count_private=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=MeetRaval8983&theme=github-dark&hide_border=true" height="180" />
-  <br><br>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MeetRaval8983&theme=react-dark" />
 </p>
 
@@ -141,5 +128,5 @@
 
 <p align="center">
   ⚡ Let's innovate, collaborate, and grow together. <br/>
-  🔥 *"Focused. Disciplined. Devoted to Code."*
+  🔥 <em>"Focused. Disciplined. Devoted to Code."</em>
 </p>
